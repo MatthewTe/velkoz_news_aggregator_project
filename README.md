@@ -1,2 +1,2 @@
-# velkoz_news_aggregator_project
+# Velkozz News Aggregator Project
 A Django project for aggregating news relevant to investing interests.
